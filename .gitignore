@@ -35,3 +35,5 @@ slprj
 *_ert_rtw/
 *.original
 *.zip
+/angvel_export.csv
+*.slx.autosave
